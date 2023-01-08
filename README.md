@@ -186,3 +186,7 @@ https://gist.github.com/rxaviers/7360908
 귀찮으시면 여기서 이모지를 마크다운 파일에 붙여넣으세요.  
 https://emojipedia.org  
 😊😎🍇🏠
+
+## 참고 문헌
+
+[The Markdown Guide - Matt Cone](https://www.amazon.com/Markdown-Guide-Matt-Cone-ebook/dp/B07G7JB641)
