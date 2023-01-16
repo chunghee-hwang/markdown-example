@@ -1,3 +1,4 @@
+
 # 기본 구문
 
 ## 제목(Headings)
@@ -60,10 +61,6 @@ HTML 태그를 맨 뒤에 추가해주세요.<br>
 	1. 두 번째 중에 첫 번째
 	2. 두 번째 중에  두 번째
 3. 세 번째
-
-- 첫 번째
-- 두 번째
-- 세 번째
 
 ## 정렬되지 않은 목록(Unordered List)
 * 첫 번째
@@ -189,4 +186,4 @@ https://emojipedia.org
 
 ## 참고 문헌
 
-[The Markdown Guide - Matt Cone](https://www.amazon.com/Markdown-Guide-Matt-Cone-ebook/dp/B07G7JB641)
+[The Markdown Guide - Matt Cone](https://mattcone.gumroad.com/l/markdownguide)
